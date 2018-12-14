@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^6.2.0",
     "fastify": "^1.13.1",
     "fastify-helmet": "^3.0.0"
   }
