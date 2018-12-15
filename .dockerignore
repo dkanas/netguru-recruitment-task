@@ -1,0 +1,17 @@
+# js related stuff
+.eslintrc.json
+.prettierrc
+node_modules
+
+# git related stuff
+.git/
+.gitignore
+
+# docker related stuff
+.docker/
+Dockerfile
+
+# env variables files
+.env*
+!.env.example
+
