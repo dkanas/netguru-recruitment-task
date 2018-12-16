@@ -1,0 +1,15 @@
+version: '3'
+services:
+  api:
+    build: .
+    command: ./node_modules/pm2/bin/pm2-runtime start ./index.js --watch
+    volumes:
+      - .:/usr/src/moviesapi
+    environment:
+      WAIT_HOSTS: mongo:27017
+
+  db:
+    image: mongo:latest
+    volumes:
+      - ./.docker/data/db:/data/db
+           
