@@ -1,0 +1,1442 @@
+[
+  {
+    "genre": [
+      "Crime, Drama"
+    ],
+    "actors": [
+      "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc59",
+    "title": "The Godfather",
+    "year": 1972,
+    "rated": "R",
+    "released": "1972-03-24T00:00:00.000Z",
+    "runtime": 175,
+    "director": "Francis Ford Coppola",
+    "writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+    "plot": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.",
+    "language": "English, Italian, Latin",
+    "country": "USA",
+    "awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc5c",
+        "source": "Internet Movie Database",
+        "value": 9.2
+      },
+      {
+        "_id": "5c15afd96197100a1201cc5b",
+        "source": "Rotten Tomatoes",
+        "value": 98
+      },
+      {
+        "_id": "5c15afd96197100a1201cc5a",
+        "source": "Metacritic",
+        "value": 100
+      }
+    ],
+    "metascore": 100,
+    "imdbRating": 9.2,
+    "imdbVotes": 1386576,
+    "type": "movie",
+    "dvd": "2001-10-09T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Paramount Pictures",
+    "website": "http://www.thegodfather.com",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc55",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rated": "R",
+    "released": "1994-10-14T00:00:00.000Z",
+    "runtime": 142,
+    "director": "Frank Darabont",
+    "writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+    "plot": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Nominated for 7 Oscars. Another 19 wins & 32 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc58",
+        "source": "Internet Movie Database",
+        "value": 9.3
+      },
+      {
+        "_id": "5c15afd96197100a1201cc57",
+        "source": "Rotten Tomatoes",
+        "value": 91
+      },
+      {
+        "_id": "5c15afd96197100a1201cc56",
+        "source": "Metacritic",
+        "value": 80
+      }
+    ],
+    "metascore": 80,
+    "imdbRating": 9.3,
+    "imdbVotes": 2018482,
+    "type": "movie",
+    "dvd": "1998-01-27T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Columbia Pictures",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama"
+    ],
+    "actors": [
+      "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc61",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "rated": "R",
+    "released": "1994-10-14T00:00:00.000Z",
+    "runtime": 154,
+    "director": "Quentin Tarantino",
+    "writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+    "plot": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+    "language": "English, Spanish, French",
+    "country": "USA",
+    "awards": "Won 1 Oscar. Another 62 wins & 69 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc64",
+        "source": "Internet Movie Database",
+        "value": 8.9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc63",
+        "source": "Rotten Tomatoes",
+        "value": 94
+      },
+      {
+        "_id": "5c15afd96197100a1201cc62",
+        "source": "Metacritic",
+        "value": 94
+      }
+    ],
+    "metascore": 94,
+    "imdbRating": 8.9,
+    "imdbVotes": 1575564,
+    "type": "movie",
+    "dvd": "1998-05-19T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Miramax Films",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Western"
+    ],
+    "actors": [
+      "Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc65",
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rated": "R",
+    "released": "1967-12-29T00:00:00.000Z",
+    "runtime": 178,
+    "director": "Sergio Leone",
+    "writer": "Luciano Vincenzoni (story), Sergio Leone (story), Agenore Incrocci (screenplay), Furio Scarpelli (screenplay), Luciano Vincenzoni (screenplay), Sergio Leone (screenplay)",
+    "plot": "Blondie (The Good) is a professional gunslinger who is out trying to earn a few dollars. Angel Eyes (The Bad) is a hit man who always commits to a task and sees it through, as long as he is paid to do so. And Tuco (The Ugly) is a wanted outlaw trying to take care of his own hide. Tuco and Blondie share a partnership together making money off Tuco's bounty, but when Blondie unties the partnership, Tuco tries to hunt down Blondie. When Blondie and Tuco come across a horse carriage loaded with dead bodies, they soon learn from the only survivor (Bill Carson) that he and a few other men have buried a stash of gold in a cemetery. Unfortunately Carson dies and Tuco only finds out the name of the cemetery, while Blondie finds out the name on the grave. Now the two must keep each other alive in order to find the gold. Angel Eyes (who had been looking for Bill Carson) discovers that Tuco and Blondie met with Carson and knows they know the location of the gold. All he needs is for the two to lead him to it. Now The Good, The Bad and The Ugly must all battle it out to get their hands on $200,000 worth of gold.",
+    "language": "Italian",
+    "country": "Italy, Spain, West Germany",
+    "awards": "1 win & 3 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc68",
+        "source": "Internet Movie Database",
+        "value": 8.9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc67",
+        "source": "Rotten Tomatoes",
+        "value": 97
+      },
+      {
+        "_id": "5c15afd96197100a1201cc66",
+        "source": "Metacritic",
+        "value": 90
+      }
+    ],
+    "metascore": 90,
+    "imdbRating": 8.9,
+    "imdbVotes": 597582,
+    "type": "movie",
+    "dvd": "1997-11-18T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "United Artists",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama"
+    ],
+    "actors": [
+      "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc5d",
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "rated": "R",
+    "released": "1974-12-20T00:00:00.000Z",
+    "runtime": 202,
+    "director": "Francis Ford Coppola",
+    "writer": "Francis Ford Coppola (screenplay by), Mario Puzo (screenplay by), Mario Puzo (based on the novel by)",
+    "plot": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "language": "English, Italian, Spanish, Latin, Sicilian",
+    "country": "USA",
+    "awards": "Won 6 Oscars. Another 11 wins & 20 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc60",
+        "source": "Internet Movie Database",
+        "value": 9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc5f",
+        "source": "Rotten Tomatoes",
+        "value": 97
+      },
+      {
+        "_id": "5c15afd96197100a1201cc5e",
+        "source": "Metacritic",
+        "value": 90
+      }
+    ],
+    "metascore": 90,
+    "imdbRating": 9,
+    "imdbVotes": 958116,
+    "type": "movie",
+    "dvd": "2005-05-24T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Paramount Pictures",
+    "website": "http://www.thegodfather.com/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Crime, Drama, Thriller"
+    ],
+    "actors": [
+      "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc69",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rated": "PG-13",
+    "released": "2008-07-18T00:00:00.000Z",
+    "runtime": 152,
+    "director": "Christopher Nolan",
+    "writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+    "plot": "Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.",
+    "language": "English, Mandarin",
+    "country": "USA, UK",
+    "awards": "Won 2 Oscars. Another 152 wins & 155 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc6c",
+        "source": "Internet Movie Database",
+        "value": 9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc6b",
+        "source": "Rotten Tomatoes",
+        "value": 94
+      },
+      {
+        "_id": "5c15afd96197100a1201cc6a",
+        "source": "Metacritic",
+        "value": 84
+      }
+    ],
+    "metascore": 84,
+    "imdbRating": 9,
+    "imdbVotes": 1990170,
+    "type": "movie",
+    "dvd": "2008-12-09T00:00:00.000Z",
+    "boxOffice": "533316061",
+    "production": "Warner Bros. Pictures/Legendary",
+    "website": "http://thedarkknight.warnerbros.com/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Adventure, Drama, Fantasy"
+    ],
+    "actors": [
+      "Noel Appleby, Ali Astin, Sean Astin, David Aston"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc75",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rated": "PG-13",
+    "released": "2003-12-17T00:00:00.000Z",
+    "runtime": 201,
+    "director": "Peter Jackson",
+    "writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
+    "plot": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits: Frodo and Sam reach Mordor in their quest to destroy the \"one ring\", while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+    "language": "English, Quenya, Old English, Sindarin",
+    "country": "New Zealand, USA",
+    "awards": "Won 11 Oscars. Another 197 wins & 122 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc78",
+        "source": "Internet Movie Database",
+        "value": 8.9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc77",
+        "source": "Rotten Tomatoes",
+        "value": 93
+      },
+      {
+        "_id": "5c15afd96197100a1201cc76",
+        "source": "Metacritic",
+        "value": 94
+      }
+    ],
+    "metascore": 94,
+    "imdbRating": 8.9,
+    "imdbVotes": 1440170,
+    "type": "movie",
+    "dvd": "2004-05-25T00:00:00.000Z",
+    "boxOffice": "364000000",
+    "production": "New Line Cinema",
+    "website": "http://www.lordoftherings.net/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Biography, Drama, History"
+    ],
+    "actors": [
+      "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc71",
+    "title": "Schindler's List",
+    "year": 1993,
+    "rated": "R",
+    "released": "1994-02-04T00:00:00.000Z",
+    "runtime": 195,
+    "director": "Steven Spielberg",
+    "writer": "Thomas Keneally (book), Steven Zaillian (screenplay)",
+    "plot": "Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.",
+    "language": "English, Hebrew, German, Polish",
+    "country": "USA",
+    "awards": "Won 7 Oscars. Another 82 wins & 49 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc74",
+        "source": "Internet Movie Database",
+        "value": 8.9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc73",
+        "source": "Rotten Tomatoes",
+        "value": 97
+      },
+      {
+        "_id": "5c15afd96197100a1201cc72",
+        "source": "Metacritic",
+        "value": 93
+      }
+    ],
+    "metascore": 93,
+    "imdbRating": 8.9,
+    "imdbVotes": 1040910,
+    "type": "movie",
+    "dvd": "2004-03-09T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Universal Pictures",
+    "website": "http://www.schindlerslist.com",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama"
+    ],
+    "actors": [
+      "Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc6d",
+    "title": "12 Angry Men",
+    "year": 1957,
+    "rated": "APPROVED",
+    "released": "1957-04-01T00:00:00.000Z",
+    "runtime": 96,
+    "director": "Sidney Lumet",
+    "writer": "Reginald Rose (story), Reginald Rose (screenplay)",
+    "plot": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Nominated for 3 Oscars. Another 16 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc70",
+        "source": "Internet Movie Database",
+        "value": 8.9
+      },
+      {
+        "_id": "5c15afd96197100a1201cc6f",
+        "source": "Rotten Tomatoes",
+        "value": 100
+      },
+      {
+        "_id": "5c15afd96197100a1201cc6e",
+        "source": "Metacritic",
+        "value": 96
+      }
+    ],
+    "metascore": 96,
+    "imdbRating": 8.9,
+    "imdbVotes": 565482,
+    "type": "movie",
+    "dvd": "2001-03-06T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Criterion Collection",
+    "website": "http://www.criterion.com/films/27871-12-angry-men",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Adventure, Fantasy, Sci-Fi"
+    ],
+    "actors": [
+      "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc7d",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "rated": "PG",
+    "released": "1980-06-20T00:00:00.000Z",
+    "runtime": 124,
+    "director": "Irvin Kershner",
+    "writer": "Leigh Brackett (screenplay by), Lawrence Kasdan (screenplay by), George Lucas (story by)",
+    "plot": "Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Won 1 Oscar. Another 21 wins & 19 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc80",
+        "source": "Internet Movie Database",
+        "value": 8.8
+      },
+      {
+        "_id": "5c15afd96197100a1201cc7f",
+        "source": "Rotten Tomatoes",
+        "value": 95
+      },
+      {
+        "_id": "5c15afd96197100a1201cc7e",
+        "source": "Metacritic",
+        "value": 82
+      }
+    ],
+    "metascore": 82,
+    "imdbRating": 8.8,
+    "imdbVotes": 1013391,
+    "type": "movie",
+    "dvd": "2004-09-21T00:00:00.000Z",
+    "boxOffice": "4548170",
+    "production": "Twentieth Century Fox",
+    "website": "http://www.starwars.com/episode-v/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Adventure, Drama, Fantasy"
+    ],
+    "actors": [
+      "Alan Howard, Noel Appleby, Sean Astin, Sala Baker"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc81",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rated": "PG-13",
+    "released": "2001-12-19T00:00:00.000Z",
+    "runtime": 178,
+    "director": "Peter Jackson",
+    "writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
+    "plot": "An ancient Ring thought lost for centuries has been found, and through a strange twist in fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it! However he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir and his three Hobbit friends Merry, Pippin and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign!",
+    "language": "English, Sindarin",
+    "country": "New Zealand, USA",
+    "awards": "Won 4 Oscars. Another 113 wins & 123 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc84",
+        "source": "Internet Movie Database",
+        "value": 8.8
+      },
+      {
+        "_id": "5c15afd96197100a1201cc83",
+        "source": "Rotten Tomatoes",
+        "value": 91
+      },
+      {
+        "_id": "5c15afd96197100a1201cc82",
+        "source": "Metacritic",
+        "value": 92
+      }
+    ],
+    "metascore": 92,
+    "imdbRating": 8.8,
+    "imdbVotes": 1456475,
+    "type": "movie",
+    "dvd": "2002-08-06T00:00:00.000Z",
+    "boxOffice": "314000000",
+    "production": "New Line Cinema",
+    "website": "http://www.lordoftherings.net/film/trilogy/thefellowship.html",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Adventure, Sci-Fi, Thriller"
+    ],
+    "actors": [
+      "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc89",
+    "title": "Inception",
+    "year": 2010,
+    "rated": "PG-13",
+    "released": "2010-07-16T00:00:00.000Z",
+    "runtime": 148,
+    "director": "Christopher Nolan",
+    "writer": "Christopher Nolan",
+    "plot": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
+    "language": "English, Japanese, French",
+    "country": "USA, UK",
+    "awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc8c",
+        "source": "Internet Movie Database",
+        "value": 8.8
+      },
+      {
+        "_id": "5c15afd96197100a1201cc8b",
+        "source": "Rotten Tomatoes",
+        "value": 86
+      },
+      {
+        "_id": "5c15afd96197100a1201cc8a",
+        "source": "Metacritic",
+        "value": 74
+      }
+    ],
+    "metascore": 74,
+    "imdbRating": 8.8,
+    "imdbVotes": 1766435,
+    "type": "movie",
+    "dvd": "2010-12-07T00:00:00.000Z",
+    "boxOffice": "292568851",
+    "production": "Warner Bros. Pictures",
+    "website": "http://inceptionmovie.warnerbros.com/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Jack Nicholson, Louise Fletcher, Will Sampson, Michael Berryman"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc85",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "rated": "R",
+    "released": "1975-11-19T00:00:00.000Z",
+    "runtime": 133,
+    "director": "Milos Forman",
+    "writer": "Lawrence Hauben (screenplay), Bo Goldman (screenplay), Ken Kesey (based on the novel by), Dale Wasserman (the play version: \"One Flew Over the Cuckoo's Nest\" by)",
+    "plot": "McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Won 5 Oscars. Another 30 wins & 13 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc88",
+        "source": "Internet Movie Database",
+        "value": 8.7
+      },
+      {
+        "_id": "5c15afd96197100a1201cc87",
+        "source": "Rotten Tomatoes",
+        "value": 94
+      },
+      {
+        "_id": "5c15afd96197100a1201cc86",
+        "source": "Metacritic",
+        "value": 80
+      }
+    ],
+    "metascore": 80,
+    "imdbRating": 8.7,
+    "imdbVotes": 800696,
+    "type": "movie",
+    "dvd": "1997-12-09T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "United Artists",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Adventure, Fantasy, Sci-Fi"
+    ],
+    "actors": [
+      "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc91",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "rated": "PG",
+    "released": "1977-05-25T00:00:00.000Z",
+    "runtime": 121,
+    "director": "George Lucas",
+    "writer": "George Lucas",
+    "plot": "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance and restore freedom and justice to the Galaxy.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Won 6 Oscars. Another 50 wins & 28 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc94",
+        "source": "Internet Movie Database",
+        "value": 8.6
+      },
+      {
+        "_id": "5c15afd96197100a1201cc93",
+        "source": "Rotten Tomatoes",
+        "value": 93
+      },
+      {
+        "_id": "5c15afd96197100a1201cc92",
+        "source": "Metacritic",
+        "value": 90
+      }
+    ],
+    "metascore": 90,
+    "imdbRating": 8.6,
+    "imdbVotes": 1083584,
+    "type": "movie",
+    "dvd": "2004-09-21T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "20th Century Fox",
+    "website": "http://www.starwars.com/episode-iv/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Drama"
+    ],
+    "actors": [
+      "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc79",
+    "title": "Fight Club",
+    "year": 1999,
+    "rated": "R",
+    "released": "1999-10-15T00:00:00.000Z",
+    "runtime": 139,
+    "director": "David Fincher",
+    "writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+    "plot": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. When the narrator is exposed to the hidden agenda of Tyler's fight club, he must accept the awful truth that Tyler may not be who he says he is.",
+    "language": "English",
+    "country": "USA, Germany",
+    "awards": "Nominated for 1 Oscar. Another 10 wins & 34 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc7c",
+        "source": "Internet Movie Database",
+        "value": 8.8
+      },
+      {
+        "_id": "5c15afd96197100a1201cc7b",
+        "source": "Rotten Tomatoes",
+        "value": 79
+      },
+      {
+        "_id": "5c15afd96197100a1201cc7a",
+        "source": "Metacritic",
+        "value": 66
+      }
+    ],
+    "metascore": 66,
+    "imdbRating": 8.8,
+    "imdbVotes": 1614878,
+    "type": "movie",
+    "dvd": "2000-06-06T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "20th Century Fox",
+    "website": "http://www.foxmovies.com/fightclub/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Adventure, Drama"
+    ],
+    "actors": [
+      "Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc95",
+    "title": "Seven Samurai",
+    "year": 1954,
+    "rated": "NOT RATED",
+    "released": "1956-11-19T00:00:00.000Z",
+    "runtime": 207,
+    "director": "Akira Kurosawa",
+    "writer": "Akira Kurosawa (screenplay), Shinobu Hashimoto (screenplay), Hideo Oguni (screenplay)",
+    "plot": "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village.",
+    "language": "Japanese",
+    "country": "Japan",
+    "awards": "Nominated for 2 Oscars. Another 5 wins & 6 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTRjZTc3NjItMDJiMC00MTNmLTlkYjEtN2ZiZWU4YmI1OGI4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc98",
+        "source": "Internet Movie Database",
+        "value": 8.7
+      },
+      {
+        "_id": "5c15afd96197100a1201cc97",
+        "source": "Rotten Tomatoes",
+        "value": 100
+      },
+      {
+        "_id": "5c15afd96197100a1201cc96",
+        "source": "Metacritic",
+        "value": 98
+      }
+    ],
+    "metascore": 98,
+    "imdbRating": 8.7,
+    "imdbVotes": 273148,
+    "type": "movie",
+    "dvd": "1999-03-01T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Columbia Pictures",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Drama, Romance"
+    ],
+    "actors": [
+      "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc99",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "rated": "PG-13",
+    "released": "1994-07-06T00:00:00.000Z",
+    "runtime": 142,
+    "director": "Robert Zemeckis",
+    "writer": "Winston Groom (novel), Eric Roth (screenplay)",
+    "plot": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Won 6 Oscars. Another 40 wins & 67 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc9c",
+        "source": "Internet Movie Database",
+        "value": 8.8
+      },
+      {
+        "_id": "5c15afd96197100a1201cc9b",
+        "source": "Rotten Tomatoes",
+        "value": 73
+      },
+      {
+        "_id": "5c15afd96197100a1201cc9a",
+        "source": "Metacritic",
+        "value": 82
+      }
+    ],
+    "metascore": 82,
+    "imdbRating": 8.8,
+    "imdbVotes": 1536054,
+    "type": "movie",
+    "dvd": "2001-08-28T00:00:00.000Z",
+    "boxOffice": "330000000",
+    "production": "Paramount Pictures",
+    "website": "http://www.paramount.com/movies/forrest-gump/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Sci-Fi"
+    ],
+    "actors": [
+      "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc9d",
+    "title": "The Matrix",
+    "year": 1999,
+    "rated": "R",
+    "released": "1999-03-31T00:00:00.000Z",
+    "runtime": 136,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "writer": "Lilly Wachowski, Lana Wachowski",
+    "plot": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Won 4 Oscars. Another 34 wins & 48 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cca0",
+        "source": "Internet Movie Database",
+        "value": 8.7
+      },
+      {
+        "_id": "5c15afd96197100a1201cc9f",
+        "source": "Rotten Tomatoes",
+        "value": 88
+      },
+      {
+        "_id": "5c15afd96197100a1201cc9e",
+        "source": "Metacritic",
+        "value": 73
+      }
+    ],
+    "metascore": 73,
+    "imdbRating": 8.7,
+    "imdbVotes": 1451439,
+    "type": "movie",
+    "dvd": "1999-09-21T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Warner Bros. Pictures",
+    "website": "http://www.whatisthematrix.com",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama"
+    ],
+    "actors": [
+      "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cc8d",
+    "title": "Goodfellas",
+    "year": 1990,
+    "rated": "R",
+    "released": "1990-09-21T00:00:00.000Z",
+    "runtime": 146,
+    "director": "Martin Scorsese",
+    "writer": "Nicholas Pileggi (book), Nicholas Pileggi (screenplay), Martin Scorsese (screenplay)",
+    "plot": "Henry Hill might be a small time gangster, who may have taken part in a robbery with Jimmy Conway and Tommy De Vito, two other gangsters who might have set their sights a bit higher. His two partners could kill off everyone else involved in the robbery, and slowly start to think about climbing up through the hierarchy of the Mob. Henry, however, might be badly affected by his partners' success, but will he consider stooping low enough to bring about the downfall of Jimmy and Tommy?",
+    "language": "English, Italian",
+    "country": "USA",
+    "awards": "Won 1 Oscar. Another 43 wins & 37 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cc90",
+        "source": "Internet Movie Database",
+        "value": 8.7
+      },
+      {
+        "_id": "5c15afd96197100a1201cc8f",
+        "source": "Rotten Tomatoes",
+        "value": 96
+      },
+      {
+        "_id": "5c15afd96197100a1201cc8e",
+        "source": "Metacritic",
+        "value": 89
+      }
+    ],
+    "metascore": 89,
+    "imdbRating": 8.7,
+    "imdbVotes": 870868,
+    "type": "movie",
+    "dvd": "1997-03-26T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Warner Bros.",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama"
+    ],
+    "actors": [
+      "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cca5",
+    "title": "City of God",
+    "year": 2002,
+    "rated": "R",
+    "released": "2004-02-13T00:00:00.000Z",
+    "runtime": 130,
+    "director": "Fernando Meirelles, Kátia Lund(co-director)",
+    "writer": "Paulo Lins (novel), Bráulio Mantovani (screenplay)",
+    "plot": "Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks. Younger kids watch and learn well...too well. 1970s: Li'l Zé has prospered very well and owns the city. He causes violence and fear as he wipes out rival gangs without mercy. His best friend Bené is the only one to keep him on the good side of sanity. Rocket has watched these two gain power for years, and he wants no part of it. Yet he keeps getting swept up in the madness. All he wants to do is take pictures. 1980s: Things are out of control between the last two remaining gangs...will it ever end? Welcome to the City of God.",
+    "language": "Portuguese",
+    "country": "Brazil, France",
+    "awards": "Nominated for 4 Oscars. Another 66 wins & 38 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cca8",
+        "source": "Internet Movie Database",
+        "value": 8.6
+      },
+      {
+        "_id": "5c15afd96197100a1201cca7",
+        "source": "Rotten Tomatoes",
+        "value": 91
+      },
+      {
+        "_id": "5c15afd96197100a1201cca6",
+        "source": "Metacritic",
+        "value": 79
+      }
+    ],
+    "metascore": 79,
+    "imdbRating": 8.6,
+    "imdbVotes": 622713,
+    "type": "movie",
+    "dvd": "2004-06-08T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Miramax Films",
+    "website": "http://www.miramax.com/movie/city-of-god",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama, Mystery, Thriller"
+    ],
+    "actors": [
+      "Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cca9",
+    "title": "Se7en",
+    "year": 1995,
+    "rated": "R",
+    "released": "1995-09-22T00:00:00.000Z",
+    "runtime": 127,
+    "director": "David Fincher",
+    "writer": "Andrew Kevin Walker",
+    "plot": "A film about two homicide detectives' (Morgan Freeman and (Brad Pitt desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...",
+    "language": "English",
+    "country": "USA",
+    "awards": "Nominated for 1 Oscar. Another 25 wins & 33 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccac",
+        "source": "Internet Movie Database",
+        "value": 8.6
+      },
+      {
+        "_id": "5c15afd96197100a1201ccab",
+        "source": "Rotten Tomatoes",
+        "value": 81
+      },
+      {
+        "_id": "5c15afd96197100a1201ccaa",
+        "source": "Metacritic",
+        "value": 65
+      }
+    ],
+    "metascore": 65,
+    "imdbRating": 8.6,
+    "imdbVotes": 1232616,
+    "type": "movie",
+    "dvd": "1997-04-14T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "New Line Cinema",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Drama, Thriller"
+    ],
+    "actors": [
+      "Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccad",
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "rated": "R",
+    "released": "1991-02-14T00:00:00.000Z",
+    "runtime": 118,
+    "director": "Jonathan Demme",
+    "writer": "Thomas Harris (novel), Ted Tally (screenplay)",
+    "plot": "FBI trainee Clarice Starling works hard to advance her career, including trying to hide or put behind her West Virginia roots, of which if some knew would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford. While she is still a trainee, Crawford does ask her to question Dr. Hannibal Lecter, a psychiatrist imprisoned thus far for eight years in maximum security isolation for being a serial killer, he who cannibalized his victims. Clarice is able to figure out the assignment is to pick Lecter's brains to help them solve another serial murder case, that of someone coined by the media as Buffalo Bill who has so far killed five victims, all located in the eastern US, all young women who are slightly overweight especially around the hips, all who were drowned in natural bodies of water, and all who were stripped of large swaths of skin. She also figures that Crawford chose her as a woman to be able to trigger some emotional response from Lecter. After speaking to Lecter for the first time, she realizes that everything with him will be a psychological game with her having often to read between the very cryptic lines he provides. She has to decide how much she will play along as his request in return for talking to him is to expose herself emotionally to him. The case takes more dire turns when a sixth victim is discovered, this one from who they are able to retrieve a key piece of evidence if Lecter is being forthright as to its meaning. A potential seventh victim is high profile Catherine Martin, the daughter of Senator Ruth Martin, which places greater scrutiny on the case as they search for a hopefully still alive Catherine. Who may factor into what happens is Dr. Frederick Chilton, the warden at the prison, he an opportunist who sees the higher profile with Catherine, meaning a higher profile for himself if he can insert himself successfully into the proceedings.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Won 5 Oscars. Another 54 wins & 44 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccb0",
+        "source": "Internet Movie Database",
+        "value": 8.6
+      },
+      {
+        "_id": "5c15afd96197100a1201ccaf",
+        "source": "Rotten Tomatoes",
+        "value": 96
+      },
+      {
+        "_id": "5c15afd96197100a1201ccae",
+        "source": "Metacritic",
+        "value": 85
+      }
+    ],
+    "metascore": 85,
+    "imdbRating": 8.6,
+    "imdbVotes": 1083281,
+    "type": "movie",
+    "dvd": "1998-07-01T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Orion Pictures Corporation",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Western"
+    ],
+    "actors": [
+      "Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccb1",
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "rated": "PG-13",
+    "released": "1969-07-04T00:00:00.000Z",
+    "runtime": 165,
+    "director": "Sergio Leone",
+    "writer": "Sergio Donati (screenplay by), Sergio Leone (screenplay by), Dario Argento (from a story by), Bernardo Bertolucci (from a story by), Sergio Leone (from a story by)",
+    "plot": "Story of a young woman, Mrs. McBain, who moves from New Orleans to frontier Utah, on the very edge of the American West. She arrives to find her new husband and family slaughtered, but by whom? The prime suspect, coffee-lover Cheyenne, befriends her and offers to go after the real killer, assassin gang leader Frank, in her honor. He is accompanied by Harmonica, a man already on a quest to get even.",
+    "language": "Italian, Spanish",
+    "country": "Italy, USA",
+    "awards": "4 wins & 5 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccb4",
+        "source": "Internet Movie Database",
+        "value": 8.5
+      },
+      {
+        "_id": "5c15afd96197100a1201ccb3",
+        "source": "Rotten Tomatoes",
+        "value": 98
+      },
+      {
+        "_id": "5c15afd96197100a1201ccb2",
+        "source": "Metacritic",
+        "value": 80
+      }
+    ],
+    "metascore": 80,
+    "imdbRating": 8.5,
+    "imdbVotes": 261089,
+    "type": "movie",
+    "dvd": "2003-11-18T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Paramount Pictures",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Crime, Mystery, Thriller"
+    ],
+    "actors": [
+      "Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccb9",
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "rated": "R",
+    "released": "1995-09-15T00:00:00.000Z",
+    "runtime": 106,
+    "director": "Bryan Singer",
+    "writer": "Christopher McQuarrie",
+    "plot": "Following a truck hijack in New York, five conmen are arrested and brought together for questioning. As none of them are guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser Söze is felt. It becomes clear that each one of them has wronged Söze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser Söze?",
+    "language": "English, Hungarian, Spanish, French",
+    "country": "USA, Germany",
+    "awards": "Won 2 Oscars. Another 32 wins & 15 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccbc",
+        "source": "Internet Movie Database",
+        "value": 8.6
+      },
+      {
+        "_id": "5c15afd96197100a1201ccbb",
+        "source": "Rotten Tomatoes",
+        "value": 89
+      },
+      {
+        "_id": "5c15afd96197100a1201ccba",
+        "source": "Metacritic",
+        "value": 77
+      }
+    ],
+    "metascore": 77,
+    "imdbRating": 8.6,
+    "imdbVotes": 878636,
+    "type": "movie",
+    "dvd": "1999-12-09T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Gramercy Pictures",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Adventure, Drama, Fantasy"
+    ],
+    "actors": [
+      "Bruce Allpress, Sean Astin, John Bach, Sala Baker"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201cca1",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "rated": "PG-13",
+    "released": "2002-12-18T00:00:00.000Z",
+    "runtime": 179,
+    "director": "Peter Jackson",
+    "writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Stephen Sinclair (screenplay), Peter Jackson (screenplay)",
+    "plot": "While Frodo and Sam, now accompanied by a new guide, continue their hopeless journey towards the land of shadow to destroy the One Ring, each member of the broken fellowship plays their part in the battle against the evil wizard Saruman and his armies of Isengard.",
+    "language": "English, Sindarin, Old English",
+    "country": "New Zealand, USA",
+    "awards": "Won 2 Oscars. Another 118 wins & 137 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cca4",
+        "source": "Internet Movie Database",
+        "value": 8.7
+      },
+      {
+        "_id": "5c15afd96197100a1201cca3",
+        "source": "Rotten Tomatoes",
+        "value": 95
+      },
+      {
+        "_id": "5c15afd96197100a1201cca2",
+        "source": "Metacritic",
+        "value": 87
+      }
+    ],
+    "metascore": 87,
+    "imdbRating": 8.7,
+    "imdbVotes": 1301639,
+    "type": "movie",
+    "dvd": "2003-08-26T00:00:00.000Z",
+    "boxOffice": "339700000",
+    "production": "New Line Cinema",
+    "website": "http://www.lordoftherings.net/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Action, Adventure"
+    ],
+    "actors": [
+      "Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccbd",
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "rated": "PG",
+    "released": "1981-06-12T00:00:00.000Z",
+    "runtime": 115,
+    "director": "Steven Spielberg",
+    "writer": "Lawrence Kasdan (screenplay by), George Lucas (story by), Philip Kaufman (story by)",
+    "plot": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to humanly existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it.",
+    "language": "English, German, Hebrew, Spanish, Arabic, Nepali",
+    "country": "USA",
+    "awards": "Won 4 Oscars. Another 30 wins & 23 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccc0",
+        "source": "Internet Movie Database",
+        "value": 8.5
+      },
+      {
+        "_id": "5c15afd96197100a1201ccbf",
+        "source": "Rotten Tomatoes",
+        "value": 95
+      },
+      {
+        "_id": "5c15afd96197100a1201ccbe",
+        "source": "Metacritic",
+        "value": 85
+      }
+    ],
+    "metascore": 85,
+    "imdbRating": 8.5,
+    "imdbVotes": 781295,
+    "type": "movie",
+    "dvd": "2003-10-21T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Paramount Pictures",
+    "website": "http://www.indianajones.com/raiders/",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Mystery, Thriller"
+    ],
+    "actors": [
+      "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccc1",
+    "title": "Rear Window",
+    "year": 1954,
+    "rated": "PG",
+    "released": "1954-09-01T00:00:00.000Z",
+    "runtime": 112,
+    "director": "Alfred Hitchcock",
+    "writer": "John Michael Hayes (screenplay), Cornell Woolrich (based on the short story by)",
+    "plot": "Professional photographer L.B. \"Jeff\" Jeffries breaks his leg while getting an action shot at an auto race. Confined to his New York apartment, he spends his time looking out of the rear window observing the neighbors. He begins to suspect that a man across the courtyard may have murdered his wife. Jeff enlists the help of his high society fashion-consultant girlfriend Lisa Freemont and his visiting nurse Stella to investigate.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Nominated for 4 Oscars. Another 6 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccc4",
+        "source": "Internet Movie Database",
+        "value": 8.5
+      },
+      {
+        "_id": "5c15afd96197100a1201ccc3",
+        "source": "Rotten Tomatoes",
+        "value": 100
+      },
+      {
+        "_id": "5c15afd96197100a1201ccc2",
+        "source": "Metacritic",
+        "value": 100
+      }
+    ],
+    "metascore": 100,
+    "imdbRating": 8.5,
+    "imdbVotes": 383397,
+    "type": "movie",
+    "dvd": "2001-03-06T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Paramount Pictures",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Drama, Family, Fantasy"
+    ],
+    "actors": [
+      "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccc5",
+    "title": "It's a Wonderful Life",
+    "year": 1946,
+    "rated": "PG",
+    "released": "1947-01-07T00:00:00.000Z",
+    "runtime": 130,
+    "director": "Frank Capra",
+    "writer": "Frances Goodrich (screenplay), Albert Hackett (screenplay), Frank Capra (screenplay), Jo Swerling (additional scenes), Philip Van Doren Stern (story)",
+    "plot": "George Bailey has spent his entire life giving of himself to the people of Bedford Falls. He has always longed to travel but never had the opportunity in order to prevent rich skinflint Mr. Potter from taking over the entire town. All that prevents him from doing so is George's modest building and loan company, which was founded by his generous father. But on Christmas Eve, George's Uncle Billy loses the business's $8,000 while intending to deposit it in the bank. Potter finds the misplaced money and hides it from Billy. When the bank examiner discovers the shortage later that night, George realizes that he will be held responsible and sent to jail and the company will collapse, finally allowing Potter to take over the town. Thinking of his wife, their young children, and others he loves will be better off with him dead, he contemplates suicide. But the prayers of his loved ones result in a gentle angel named Clarence coming to earth to help George, with the promise of earning his wings. He shows George what things would have been like if he had never been born. In a nightmarish vision in which the Potter-controlled town is sunk in sex and sin, those George loves are either dead, ruined, or miserable. He realizes that he has touched many people in a positive way and that his life has truly been a wonderful one.",
+    "language": "English, French",
+    "country": "USA",
+    "awards": "Nominated for 5 Oscars. Another 6 wins & 1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccc8",
+        "source": "Internet Movie Database",
+        "value": 8.6
+      },
+      {
+        "_id": "5c15afd96197100a1201ccc7",
+        "source": "Rotten Tomatoes",
+        "value": 93
+      },
+      {
+        "_id": "5c15afd96197100a1201ccc6",
+        "source": "Metacritic",
+        "value": 89
+      }
+    ],
+    "metascore": 89,
+    "imdbRating": 8.6,
+    "imdbVotes": 339043,
+    "type": "movie",
+    "dvd": "1995-09-19T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Liberty Films",
+    "website": "N/A",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Drama, Romance, War"
+    ],
+    "actors": [
+      "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccb5",
+    "title": "Casablanca",
+    "year": 1942,
+    "rated": "PG",
+    "released": "1943-01-23T00:00:00.000Z",
+    "runtime": 102,
+    "director": "Michael Curtiz",
+    "writer": "Julius J. Epstein (screenplay), Philip G. Epstein (screenplay), Howard Koch (screenplay), Murray Burnett (play), Joan Alison (play)",
+    "plot": "The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.",
+    "language": "English, French, German, Italian",
+    "country": "USA",
+    "awards": "Won 3 Oscars. Another 5 wins & 9 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201ccb8",
+        "source": "Internet Movie Database",
+        "value": 8.5
+      },
+      {
+        "_id": "5c15afd96197100a1201ccb7",
+        "source": "Rotten Tomatoes",
+        "value": 97
+      },
+      {
+        "_id": "5c15afd96197100a1201ccb6",
+        "source": "Metacritic",
+        "value": 100
+      }
+    ],
+    "metascore": 100,
+    "imdbRating": 8.5,
+    "imdbVotes": 459805,
+    "type": "movie",
+    "dvd": "2000-02-15T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Warner Bros. Pictures",
+    "website": "http://www.FathomEvents.com",
+    "__v": 0
+  },
+  {
+    "genre": [
+      "Horror, Mystery, Thriller"
+    ],
+    "actors": [
+      "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh"
+    ],
+    "comments": [],
+    "_id": "5c15afd96197100a1201ccc9",
+    "title": "Psycho",
+    "year": 1960,
+    "rated": "R",
+    "released": "1960-09-08T00:00:00.000Z",
+    "runtime": 109,
+    "director": "Alfred Hitchcock",
+    "writer": "Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)",
+    "plot": "Phoenix officeworker Marion Crane is fed up with the way life has treated her. She has to meet her lover Sam in lunch breaks and they cannot get married because Sam has to give most of his money away in alimony. One Friday Marion is trusted to bank $40,000 by her employer. Seeing the opportunity to take the money and start a new life, Marion leaves town and heads towards Sam's California store. Tired after the long drive and caught in a storm, she gets off the main highway and pulls into The Bates Motel. The motel is managed by a quiet young man called Norman who seems to be dominated by his mother.",
+    "language": "English",
+    "country": "USA",
+    "awards": "Nominated for 4 Oscars. Another 5 wins & 9 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "_id": "5c15afd96197100a1201cccc",
+        "source": "Internet Movie Database",
+        "value": 8.5
+      },
+      {
+        "_id": "5c15afd96197100a1201cccb",
+        "source": "Rotten Tomatoes",
+        "value": 97
+      },
+      {
+        "_id": "5c15afd96197100a1201ccca",
+        "source": "Metacritic",
+        "value": 97
+      }
+    ],
+    "metascore": 97,
+    "imdbRating": 8.5,
+    "imdbVotes": 514513,
+    "type": "movie",
+    "dvd": "2001-03-06T00:00:00.000Z",
+    "boxOffice": null,
+    "production": "Paramount Pictures",
+    "website": "N/A",
+    "__v": 0
+  }
+]
