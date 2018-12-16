@@ -1,0 +1,9 @@
+version: '3'
+services:
+  api:
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.test
+    command: ./node_modules/mocha/bin/mocha test/*/**
+
