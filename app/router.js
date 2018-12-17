@@ -7,7 +7,7 @@ const router = async fastify => {
   fastify.post('/movies', moviesController.create)
 
   // comments routes
-  fastify.get('/comments', commentsController.getAll)
+  fastify.get('/comments', commentsController.get)
   fastify.post('/comments', commentsController.create)
 }
 
