@@ -3,7 +3,7 @@ const commentsController = require('./controllers/comments')
 
 const router = async fastify => {
   // movies routes
-  fastify.get('/movies', moviesController.getAll)
+  fastify.get('/movies', moviesController.get)
   fastify.post('/movies', moviesController.create)
 
   // comments routes
