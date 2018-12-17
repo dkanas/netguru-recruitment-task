@@ -22,7 +22,7 @@ const movieSchema = new mongoose.Schema({
   metascore: Number,
   imdbRating: Number,
   imdbVotes: Number,
-  imdbID: String,
+  imdbId: String,
   type: String,
   dvd: Date,
   boxOffice: String,
