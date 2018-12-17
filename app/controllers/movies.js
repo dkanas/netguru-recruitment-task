@@ -2,14 +2,11 @@ const escapeRegexString = require('escape-regex-string')
 const get = require('lodash/get')
 
 const Movie = require('../models/movie')
+const omdb = require('../services/omdb')
+const { normalizeMovieFromOMDB, parseAndValidateLimit } = require('../helpers/common')
 const buildError = require('../helpers/error')
 
 const PAGE_LIMIT = 10
-
-function parseAndValidateLimit(limit, maxLimit) {
-  const parsedLimit = Number(limit)
-  return parsedLimit && parsedLimit <= maxLimit ? limit : maxLimit
-}
 
 function buildQuery(model, params) {
   const {
@@ -53,7 +50,7 @@ function buildQuery(model, params) {
     if (parsedPage) query.skip(parsedPage * PAGE_LIMIT)
   }
 
-  return query
+  return query.lean().exec()
 }
 
 const moviesController = model => ({
@@ -61,7 +58,24 @@ const moviesController = model => ({
     // only search for one document if unique query params
     return await buildQuery(model, req.query)
   },
-  create: (req, rep) => rep.send(req.body)
+  create: async (req, rep) => {
+    const title = get(req, 'body.title')
+    if (!title) throw buildError(400, 'Missing title!')
+    const existingMovie = await model
+      .findOne({ title })
+      .lean()
+      .exec()
+    if (existingMovie) throw buildError(409, 'Movie already exists!')
+
+    const omdbRes = await omdb.get('/', {
+      params: { t: title, plot: 'full' }
+    })
+
+    if (omdbRes.data.Response === 'False') throw buildError(404, 'Movie not found')
+    const normalizedMovie = normalizeMovieFromOMDB(omdbRes.data)
+    rep.status(201)
+    return model.create(normalizedMovie)
+  }
 })
 
 module.exports = moviesController(Movie)
