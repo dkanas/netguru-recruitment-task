@@ -6,16 +6,21 @@ const mongoose = require('mongoose')
 const COMMENT_MAX_LENGTH = 8000
 const COMMENT_MIN_LENGTH = 5
 
+const AUTHOR_MAX_LENGTH = 100
+const AUTHOR_MIN_LENGTH = 3
+
 const CommentSchema = new mongoose.Schema({
   author: {
     type: String,
-    required: true
+    required: true,
+    maxlength: AUTHOR_MAX_LENGTH,
+    minlength: AUTHOR_MIN_LENGTH
   },
   content: {
     required: true,
     type: String,
     maxlength: COMMENT_MAX_LENGTH,
-    minLength: COMMENT_MIN_LENGTH
+    minlength: COMMENT_MIN_LENGTH
   },
   movie: {
     type: mongoose.Schema.Types.ObjectId,
