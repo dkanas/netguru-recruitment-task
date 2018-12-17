@@ -156,4 +156,45 @@ describe('Movies controller', () => {
       await checkForParams({ page }, expectedSeedData)
     })
   })
+
+  describe('POST /movies', () => {
+    it('should fail when title is missing', async () => {
+      const res = await server.inject({
+        method: 'POST',
+        url: '/movies'
+      })
+
+      expect(res.statusCode).to.equal(400)
+    })
+
+    it('should fail if movie already exists', async () => {
+      const res = await server.inject({
+        method: 'POST',
+        url: '/movies',
+        body: { title: 'The Godfather' }
+      })
+
+      expect(res.statusCode).to.equal(409)
+    })
+
+    it("should fail if movie doesn't exist on omdb", async () => {
+      const res = await server.inject({
+        method: 'POST',
+        url: '/movies',
+        body: { title: '!this-movie-doesntExist' }
+      })
+
+      expect(res.statusCode).to.equal(404)
+    })
+
+    it('should fetch rest of the data from omdb, save and return', async () => {
+      const res = await server.inject({
+        method: 'POST',
+        url: '/movies',
+        body: { title: 'Braveheart' }
+      })
+
+      expect(res.statusCode).to.equal(201)
+    })
+  })
 })
