@@ -5,5 +5,9 @@ services:
       - "3000:3000"
     env_file:
       - .env.test
-    command: ./node_modules/mocha/bin/mocha test --recursive
+    command: npm test
+
+  db:
+    logging:
+      driver: "none"
 
