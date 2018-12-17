@@ -25,14 +25,10 @@ const checkForParams = async (params, expectedSeedData) => {
 }
 
 describe('Movies controller', () => {
-  // hooks for setup and teardown
+  // hooks for setup
   before(function() {
     this.timeout(20000)
     return seedDb()
-  })
-  after(() => {
-    server.close()
-    mongoose.disconnect()
   })
 
   describe('GET /movies', () => {
@@ -47,17 +43,13 @@ describe('Movies controller', () => {
     })
 
     it('should limit results based on query', async () => {
-      try {
-        const res = await server.inject({
-          method: 'GET',
-          url: '/movies?limit=5'
-        })
+      const res = await server.inject({
+        method: 'GET',
+        url: '/movies?limit=5'
+      })
 
-        const movies = JSON.parse(res.body)
-        expect(movies).to.have.lengthOf(5)
-      } catch (err) {
-        console.error(err)
-      }
+      const movies = JSON.parse(res.body)
+      expect(movies).to.have.lengthOf(5)
     })
 
     it('should not exceed default limit', async () => {
