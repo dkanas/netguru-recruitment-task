@@ -12,7 +12,7 @@ case $1 in
 esac
 
 function down {
-  docker-compose down
+  docker-compose stop
 }
 
 trap down EXIT
