@@ -50,7 +50,7 @@ function normalizeMovieFromOMDB(movie) {
 
 function parseAndValidateLimit(limit, maxLimit) {
   const parsedLimit = Number(limit)
-  return parsedLimit && parsedLimit <= maxLimit ? limit : maxLimit
+  return parsedLimit && parsedLimit <= maxLimit ? parsedLimit : maxLimit
 }
 
 module.exports = {
