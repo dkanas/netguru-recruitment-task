@@ -1,11 +1,15 @@
 const { ObjectId } = require('mongoose').Types
 const Comment = require('../models/comment')
 const Movie = require('../models/movie')
-const { parseAndValidateLimit } = require('../helpers/common')
+const {
+  parseAndValidateLimit,
+  buildResultsQuery,
+  buildTotalCountQuery
+} = require('../helpers/common')
 const buildError = require('../helpers/error')
 
 const PAGE_LIMIT = 10
-function buildQuery(model, params) {
+function buildBaseQuery(model, params) {
   const { limit, page, movie } = params
 
   const validLimit = parseAndValidateLimit(limit, PAGE_LIMIT)
@@ -15,11 +19,18 @@ function buildQuery(model, params) {
   if (parsedPage) query.skip(validLimit * parsedPage)
   query.limit(validLimit)
 
-  return query.lean().exec()
+  return query.lean()
 }
+
 const commentsController = (commentModel, movieModel) => ({
   get: async req => {
-    return await buildQuery(commentModel, req.query)
+    const getBaseQuery = () => buildBaseQuery(commentModel, req.query)
+    const [comments, totalCount] = await Promise.all([
+      buildResultsQuery(getBaseQuery),
+      buildTotalCountQuery(getBaseQuery)
+    ])
+
+    return { comments, totalCount }
   },
   create: async (req, rep) => {
     const { author, content, movie } = req.body

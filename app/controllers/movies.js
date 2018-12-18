@@ -3,12 +3,17 @@ const get = require('lodash/get')
 
 const Movie = require('../models/movie')
 const omdb = require('../services/omdb')
-const { normalizeMovieFromOMDB, parseAndValidateLimit } = require('../helpers/common')
+const {
+  normalizeMovieFromOMDB,
+  parseAndValidateLimit,
+  buildResultsQuery,
+  buildTotalCountQuery
+} = require('../helpers/common')
 const buildError = require('../helpers/error')
 
 const PAGE_LIMIT = 10
 
-function buildQuery(model, params) {
+function buildBaseQuery(model, params) {
   const {
     title,
     minYear,
@@ -49,14 +54,18 @@ function buildQuery(model, params) {
     query.limit(validLimit)
     if (parsedPage) query.skip(parsedPage * PAGE_LIMIT)
   }
-
-  return query.lean().exec()
+  return query.lean()
 }
 
 const moviesController = model => ({
   get: async req => {
-    // only search for one document if unique query params
-    return await buildQuery(model, req.query)
+    const getBaseQuery = () => buildBaseQuery(model, req.query)
+    const [movies, totalCount] = await Promise.all([
+      buildResultsQuery(getBaseQuery),
+      buildTotalCountQuery(getBaseQuery)
+    ])
+
+    return { movies, totalCount }
   },
   create: async (req, rep) => {
     const title = get(req, 'body.title')
