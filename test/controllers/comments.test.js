@@ -2,6 +2,7 @@ const chai = require('chai')
 const mongoose = require('mongoose')
 const server = require('../../app/server')
 const seedDb = require('../../app/db/seed')
+const commentsSeedData = require('../../app/db/seedData/comments.json')
 
 const { expect } = chai
 
@@ -20,8 +21,9 @@ describe('Comments controller', () => {
         url: '/comments'
       })
 
-      const comments = JSON.parse(res.body)
+      const { comments, totalCount } = JSON.parse(res.body)
       expect(comments).to.have.lengthOf(10)
+      expect(totalCount).to.equal(commentsSeedData.length)
     })
 
     it('should limit results based on query', async () => {
@@ -30,8 +32,9 @@ describe('Comments controller', () => {
         url: '/comments?limit=5'
       })
 
-      const comments = JSON.parse(res.body)
+      const { comments, totalCount } = JSON.parse(res.body)
       expect(comments).to.have.lengthOf(5)
+      expect(totalCount).to.equal(commentsSeedData.length)
     })
 
     it('should not exceed default limit', async () => {
@@ -40,8 +43,9 @@ describe('Comments controller', () => {
         url: '/comments?limit=15'
       })
 
-      const comments = JSON.parse(res.body)
+      const { comments, totalCount } = JSON.parse(res.body)
       expect(comments).to.have.lengthOf(10)
+      expect(totalCount).to.equal(commentsSeedData.length)
     })
 
     it('should return comments based on movie id', async () => {
@@ -50,7 +54,7 @@ describe('Comments controller', () => {
         url: '/comments?movie=' + movie
       })
 
-      const comments = JSON.parse(res.body)
+      const { comments } = JSON.parse(res.body)
       expect(comments).to.have.lengthOf(10)
       comments.forEach(comment => {
         expect(comment.movie).to.equal(movie)

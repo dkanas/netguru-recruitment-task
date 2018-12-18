@@ -16,12 +16,12 @@ const checkForParams = async (params, expectedSeedData) => {
         .join('&')
   })
 
-  const body = JSON.parse(res.body)
-  expect(body.length).to.equal(expectedSeedData.length)
-  body.forEach(movie => {
+  const { movies, totalCount } = JSON.parse(res.body)
+  movies.forEach(movie => {
     const movieInExpectedSeedData = expectedSeedData.find(m => m._id === movie._id)
     expect(movie).to.eql(movieInExpectedSeedData)
   })
+  return { movies, totalCount, res }
 }
 
 describe('Movies controller', () => {
@@ -38,8 +38,9 @@ describe('Movies controller', () => {
         url: '/movies'
       })
 
-      const movies = JSON.parse(res.body)
+      const { movies, totalCount } = JSON.parse(res.body)
       expect(movies).to.have.lengthOf(10)
+      expect(totalCount).to.equal(moviesSeedData.length)
     })
 
     it('should limit results based on query', async () => {
@@ -48,8 +49,9 @@ describe('Movies controller', () => {
         url: '/movies?limit=5'
       })
 
-      const movies = JSON.parse(res.body)
+      const { movies, totalCount } = JSON.parse(res.body)
       expect(movies).to.have.lengthOf(5)
+      expect(totalCount).to.equal(moviesSeedData.length)
     })
 
     it('should not exceed default limit', async () => {
@@ -58,8 +60,9 @@ describe('Movies controller', () => {
         url: '/movies?limit=15'
       })
 
-      const movies = JSON.parse(res.body)
+      const { movies, totalCount } = JSON.parse(res.body)
       expect(movies).to.have.lengthOf(10)
+      expect(totalCount).to.equal(moviesSeedData.length)
     })
 
     it('should return movie based on imdb id', async () => {
@@ -145,7 +148,8 @@ describe('Movies controller', () => {
       // count from 0
       const page = 1
       const expectedSeedData = moviesSeedData.slice(10, 20)
-      await checkForParams({ page }, expectedSeedData)
+      const { totalCount } = await checkForParams({ page }, expectedSeedData)
+      expect(totalCount).to.equal(moviesSeedData.length)
     })
   })
 
