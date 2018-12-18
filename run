@@ -9,10 +9,15 @@ case $1 in
     docker-compose -f docker-compose.yml -f docker-compose.test.yml up \
       --abort-on-container-exit --exit-code-from api
     ;;
+  shell)
+    docker-compose exec api /bin/ash
+    ;;
 esac
 
 function down {
-  docker-compose stop
+  if [ "$1" != shell ]; then
+    docker-compose stop
+  fi
 }
 
-trap down EXIT
+trap "down $1" EXIT

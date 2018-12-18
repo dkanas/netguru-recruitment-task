@@ -5,8 +5,7 @@ services:
     command: ./node_modules/pm2/bin/pm2-runtime start ./index.js --watch
     volumes:
       - .:/usr/src/moviesapi
-    environment:
-      WAIT_HOSTS: mongo:27017
+      - /usr/src/moviesapi/node_modules
 
   db:
     image: mongo:latest
