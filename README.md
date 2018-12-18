@@ -1,9 +1,18 @@
 # Movies api (Netguru recruitment task)
 
 ## Setup
+Create two env files based on template:
+
+`cp .env.example .env.development && cp .env.example .env.test`
+
+Fill in the db connecton string and your OMDB API key.
+
+Run `./run dev` to start up the development server. At the first start the app container will build
+and install all dependencies.
+
 Make sure, that you have docker and docker-compose installed.
 
-Then run `./run dev` to run the development server.
+Then run `./run dev` to start the development server.
 
 ## Usage
 ### GET /movies
@@ -42,7 +51,7 @@ Body (all required)
   - *movie* - string - movie id - `5c15afd96197100a1201cc59`
 
 ## Testing
-Set up the project and then run `./run test`. A docker-compose stack, consisting
+Make sure you have set up the project correctly and then run `./run test`. A docker-compose stack, consisting
 of a MongoDB container and the app container will start. After the tests finish,
 the containers will be stopped.
 
