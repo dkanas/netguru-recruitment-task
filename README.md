@@ -1,16 +1,23 @@
 # Movies api (Netguru recruitment task)
 
 ## Setup
-Make sure, that you have docker and docker-compose installed.
+Make sure that you have docker and docker-compose installed.
 Create two env files based on template:
 
 `cp .env.example .env.development && cp .env.example .env.test`
 
-Fill in the db connecton string and your OMDB API key.
+Fill in the db connection string and your OMDB API key in both of those files.
 
 Run `./run dev` to start up the development server. At the first start the app container will build
-and install all dependencies.
+and install all dependencies. The app should be accessible at `http://127.0.0.1:3000/`.
 
+## Helper script
+In the root directory of the project there is a file, called `run`. It is a simple bash script to
+make starting the whole docker setup more convenient. It takes one parameter:
+- `dev` - starts up the development docker stack,
+- `test` - starts up the tests.
+
+Before the script exists, it stops the docker stack by running `docker-compose stop`.
 
 ## Usage
 ### GET /movies
