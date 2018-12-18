@@ -15,7 +15,8 @@ and install all dependencies. The app should be accessible at `http://127.0.0.1:
 In the root directory of the project there is a file, called `run`. It is a simple bash script to
 make starting the whole docker setup more convenient. It takes one parameter:
 - `dev` - starts up the development docker stack,
-- `test` - starts up the tests.
+- `test` - starts up the tests,
+- `shell` - connects to a running api container and starts the shell.
 
 Before the script exists, it stops the docker stack by running `docker-compose stop`.
 
