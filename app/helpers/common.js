@@ -53,9 +53,23 @@ function parseAndValidateLimit(limit, maxLimit) {
   return parsedLimit && parsedLimit <= maxLimit ? parsedLimit : maxLimit
 }
 
+function buildResultsQuery(getBaseQuery) {
+  return getBaseQuery().exec()
+}
+
+function buildTotalCountQuery(getBaseQuery) {
+  return getBaseQuery()
+    .skip(0)
+    .limit(0)
+    .count()
+    .exec()
+}
+
 module.exports = {
   removeNonNumericAndParse,
   valuesStrToArr,
   normalizeMovieFromOMDB,
-  parseAndValidateLimit
+  parseAndValidateLimit,
+  buildResultsQuery,
+  buildTotalCountQuery
 }
